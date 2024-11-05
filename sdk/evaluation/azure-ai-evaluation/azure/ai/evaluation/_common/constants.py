@@ -63,3 +63,4 @@ class _InternalEvaluationMetrics:
     """
 
     ECI = "eci"
+    CODE_VULN = "code_vuln"
