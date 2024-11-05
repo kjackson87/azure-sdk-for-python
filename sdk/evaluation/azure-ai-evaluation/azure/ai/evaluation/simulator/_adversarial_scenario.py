@@ -25,3 +25,4 @@ class _UnstableAdversarialScenario(Enum):
     """
 
     ECI = "adv_politics"
+    ADVERSARIAL_CODE_VULN = "adv_code_vuln"
